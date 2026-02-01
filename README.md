@@ -18,19 +18,10 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+### 🛠️ Tech Stack
 
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=node,express,mongodb,mysql" />
-</p>
-
-**Languages & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,java,python,pytorch,cpp,git,github&perline=8" />
 </p>
 
 
