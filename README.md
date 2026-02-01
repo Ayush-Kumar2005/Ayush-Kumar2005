@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Student & passionate learner in **Computer Science**
+- 🎓 Student & passionate learner in **Information Technology**
 - 🌱 Currently improving **Data Structures & Algorithms**
 - 💻 Practicing **Web Development & Problem Solving**
 - 🚀 Goal: Crack top tech roles & build impactful projects
@@ -17,9 +17,22 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,node,express,mongodb,mysql,java,python,pytorch,cpp,git,github" />
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
+
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=node,express,mongodb,mysql" />
+</p>
+
+**Languages & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,git,github" />
+</p>
+
 
 ---
 
