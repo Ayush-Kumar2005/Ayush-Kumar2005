@@ -26,13 +26,17 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Kumar2005&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Kumar2005&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Kumar2005&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ayush-Kumar2005&theme=tokyonight" />
 </p>
+
+
+
 
 ---
 
