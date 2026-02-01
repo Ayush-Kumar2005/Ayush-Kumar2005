@@ -35,6 +35,10 @@
   <img src="https://streak-stats.demolab.com?user=Ayush-Kumar2005&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kumar2005&layout=compact&theme=tokyonight" />
+</p>
+
 
 
 
