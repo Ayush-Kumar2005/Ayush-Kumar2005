@@ -47,7 +47,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **ayush26052005hjp@gmail.com**
+- 📧 Email: **kumar.ayushhh.05@gmail.com**
 
 ---
 
